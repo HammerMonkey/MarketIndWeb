@@ -14,12 +14,10 @@
                 "FLASK_DEBUG": "1"
             },
             "args": [
-                "run",
-                "--no-debugger",
-                "--no-reload"
+                "run"
             ],
             "jinja": true,
-            "autoStartBrowser": false
+            "autoStartBrowser": true
         }
     ]
 }
